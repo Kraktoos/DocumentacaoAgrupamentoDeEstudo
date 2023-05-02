@@ -1,0 +1,4 @@
+baseURL = 'https://docs.agrupamentodeestudo.pt/'
+languageCode = 'pt-pt'
+title = 'Agrupamento de Estudo'
+theme = "hugo-book"
